@@ -72,7 +72,7 @@ public class RandomDuty {
 						   "The Drowned City of Skalla", "Hell's Lid", "The Swallow's Compass", "The Burn", "The Ghimlyt Dark"};
 	
 	String shbDungeons[] = {"Holminster Switch", "Dohn Mheg", "The Qitana Ravel", "Malikah's Well", "Mt. Gulg", "Amaurot", "The Twinning", "Akadaemia Anyder",
-						   "The Grand Cosmos", "Anamnesis Anyder", "The Heroes' Gauntlet", "Matoya's Relict"};
+						   "The Grand Cosmos", "Anamnesis Anyder", "The Heroes' Gauntlet", "Matoya's Relict", "Paglth'an"};
 	
 	String arrTrials[] = {"The Bowl of Embers", "The Navel", "The Howling Eye", "Cape Westwind", "The Chrysalis", "The Steps of Faith", "A Relic Reborn: Chimera", "A Relic Reborn: Hydra",
 						  "Battle on the Big Bridge", "The Dragon's Neck", "Battle in the Big Keep", "Thornmarch", "The Whorleater", "The Striking Tree", "The Akh Afah Amphitheatre", "Urth's Fount",};
@@ -82,7 +82,7 @@ public class RandomDuty {
 	String sbTrials[] = {"The Pool of Tribute", "Emanation", "The Royal Mengerie", "Castrum Fluminis", "Kugane Ohashi", "The Great Hunt", "The Jade Stoa", "Hells' Kier",
 						 "The Wreath of Snakes"};
 	
-	String shbTrials[] = {"The Dancing Plague", "The Crown of the Immaculate", "The Dying Gasp", "Cinder Drift", "The Seat of Sacrifice", "Castrum Marinum"};
+	String shbTrials[] = {"The Dancing Plague", "The Crown of the Immaculate", "The Dying Gasp", "Cinder Drift", "The Seat of Sacrifice", "Castrum Marinum", "The Cloud Deck"};
 	
 	String arrRaids[] = {"Labyrinth of the Ancients", "Syrcus Tower", "World of Darkness", "Bahamut: Coil 1 Turn 1", "Bahamut: Coil 1 Turn 2", "Bahamut: Coil 1 Turn 3", "Bahamut: Coil 1 Turn 4", "Bahamut: Coil 2 Turn 1",
 						 "Bahamut: Coil 2  Turn 2", "Bahamut: Coil 2 Turn 3", "Bahamut: Coil 2 Turn 4", "Bahamut: Coil 3 Turn 1", "Bahamut: Coil 3 Turn 2", "Bahamut: Coil 3 Turn 3", "Bahamut: Coil 3 Turn 4"};
@@ -93,7 +93,7 @@ public class RandomDuty {
 	String sbRaids[] = {"Royal City of Rabanastre", "Ridorana Lighthouse", "Orbonne Monastery", "Deltascape V1", "Deltascape V2", "Deltascape V3", "Deltascape V4", "Sigmascape V1",
 						"Sigmascape V2", "Sigmascape V3", "Sigmascape V4", "Alphascape V1", "Alphascape V2", "Alphascape V3", "Alphascape V4"};
 	
-	String shbRaids[] = {"Copied Factory", "Puppets' Bunker", "Eden: Resurrection", "Eden: Descent", "Eden: Inundation", "Eden: Sepulture", "Eden: Furor", "Eden: Iconoclasm",
+	String shbRaids[] = {"Copied Factory", "Puppets' Bunker", "The Tower at Paradigm's Breach" ,"Eden: Resurrection", "Eden: Descent", "Eden: Inundation", "Eden: Sepulture", "Eden: Furor", "Eden: Iconoclasm",
 						 "Eden: Refulgence", "Eden: Umbra", "Eden: Litany", "Eden: Anamorphosis", "Eden: Eternity",};
 
 	
